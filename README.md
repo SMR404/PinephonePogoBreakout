@@ -11,4 +11,4 @@ Also the standoff/washer .stl file is for 3d printing; it's used because I left 
 
 ![alt text](https://github.com/SMR404/PinephonePogoBreakout/blob/master/comparisonPic.jpg "Comparison with and without breakout board attached")
 
-![alt text](https://github.com/SMR404/PinephonePogoBreakout/blob/master/boardScreenshot.PNG "KiCad screenshot")
+![alt text](https://github.com/SMR404/PinephonePogoBreakout/blob/master/boardScreencap.PNG "KiCad screenshot")
